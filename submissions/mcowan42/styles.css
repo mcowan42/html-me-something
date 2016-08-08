@@ -1,0 +1,21 @@
+h2{
+  font-family: serif;
+  text-align: center;
+}
+#iwa{
+  color: red;
+}
+.teach{
+  font-family: sans-serif;
+}
+body{
+  border: 40px solid blue;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+img{
+  width: 300px;
+}
+footer{
+  font-size: 75%;
+}
