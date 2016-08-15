@@ -2,8 +2,9 @@ h2{
   font-family: serif;
   text-align: center;
 }
-#iwa{
-  color: red;
+#taught{
+  font-size: 125%;
+  font-weight:bold;
 }
 .teach{
   font-family: sans-serif;
@@ -13,8 +14,21 @@ body{
   padding-left: 10px;
   padding-right: 10px;
 }
+.centered{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#courses{
+  list-style-type: square;
+  font-family: Courier, serif;
+  padding: 3px;
+}
 img{
   width: 300px;
+}
+figcaption{
+  font-size: 90%;
 }
 footer{
   font-size: 75%;
